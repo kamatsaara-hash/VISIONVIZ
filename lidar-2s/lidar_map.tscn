@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://dujg2lm3yhowr"]
+
+[ext_resource type="Script" uid="uid://g3hree7h24qp" path="res://lidar_map.gd" id="1_teae5"]
+
+[node name="LidarMap" type="Node2D" unique_id=431517988]
+script = ExtResource("1_teae5")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1140147675]
+position = Vector2(400, 300)

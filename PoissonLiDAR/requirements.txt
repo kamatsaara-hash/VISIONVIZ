@@ -1,0 +1,3 @@
+# Dependencies will be added in Step 1
+open3d
+numpy
